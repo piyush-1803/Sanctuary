@@ -1,0 +1,6 @@
+{
+  "name": "Sanctuary",
+  "description": "An emotionally immersive journaling experience designed to feel like writing inside a warm physical notebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
